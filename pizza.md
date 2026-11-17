@@ -3,4 +3,3 @@
 * Doll
 * Cheese
 * Tomato
-* Tomato Sauce
