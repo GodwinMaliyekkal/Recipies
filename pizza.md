@@ -1,6 +1,4 @@
-# Recipes
-## Pizza
-
-Ingredients
+# Pizza recipes
+##Ingredients
 * Doll
 * Cheese
